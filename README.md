@@ -35,8 +35,6 @@ Cloud Platform Security Engineer | AI Security Engineer | DevSecOps | Machine Le
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🛡️ GolKotha AI Security Lab
 
 **Repository:** https://github.com/mdhasan2/golkotha-ai
