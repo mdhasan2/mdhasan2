@@ -70,6 +70,14 @@ Built as a production-style Python application using Clean Architecture and SOLI
 
 ## 📚 Publications
 
+### Securing Pseudonym Schemes for Vehicular Privacy
+**Md Hasan**, Gagan Agrawal, et al.  
+**IEEE Poster Paper**, 2023
+
+Research on enhancing privacy-preserving pseudonym schemes for Vehicle-to-Everything (V2X) communication, addressing secure identity management and privacy protection in intelligent transportation systems.
+
+🔗 https://ieeexplore.ieee.org/abstract/document/10020907
+
 ## 🎯 Current Focus
 
 - AI Security Research
