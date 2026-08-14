@@ -20,7 +20,7 @@ I hold an **active TS/SCI with CI Poly** and am approved for the **Hiring Our He
 * 🔐 **19+ years** of engineering, cybersecurity, technical leadership, and military operations experience
 * ☁️ Cloud and platform engineering experience across **AWS, Kubernetes, Docker, Terraform, Linux, Python, and CI/CD**
 * 👥 Led technical and cyber organizations ranging from **12-person engineering teams to 150-person operational organizations**
-* 🛡️ Experience in **Cloud Security, DevSecOps, Incident Response, Zero Trust, IAM, and Defensive Cyber Operations**
+* 🛡️ Experience in **Cloud Security, DevSecOps, Incident Response, IAM, and Defensive Cyber Operations**
 * 🤖 Building **GolKotha AI**, an AI Security Lab combining ML, XAI, adversarial AI, RAG, and LLM security
 * 📊 Improved cyber training throughput by **40%** while maintaining instructional quality
 * 🎓 **M.S. in Computer Science – Data Science** and doctoral coursework in **Computer & Cyber Sciences**
@@ -50,7 +50,6 @@ Led defensive cyber and incident-response operations across distributed mission 
 - DevSecOps
 - Infrastructure as Code Security
 - Identity & Access Management
-- Zero Trust Architecture
 - AI Security
 - Adversarial Machine Learning
 - LLM Security
@@ -58,24 +57,31 @@ Led defensive cyber and incident-response operations across distributed mission 
 ## 🛠️ Technical Stack
 
 **Cloud & Infrastructure**
+
 AWS • EC2 • EBS • S3 • IAM • Linux • Terraform • Ansible
 
 **Containers & Platforms**
+
 Kubernetes • Docker • Platform Engineering • Microservices
 
 **DevSecOps & Automation**
+
 GitLab CI/CD • Git • Python • Bash • Infrastructure as Code (IaC)
 
 **AI & Machine Learning**
+
 XGBoost • scikit-learn • SHAP • Pandas • NumPy • Streamlit
 
 **LLM & RAG**
+
 ChromaDB • Vector Embeddings • Retrieval-Augmented Generation (RAG)
 
 **Security**
-Cloud Security • IAM • Zero Trust • Threat Modeling • Security Hardening • AI Security • Adversarial ML • LLM Security
+
+Cloud Security • IAM • Threat Modeling • Security Hardening • AI Security • Adversarial ML • LLM Security
 
 **Data**
+
 SQL • Data Engineering • ETL/ELT • Distributed Systems • Data Governance
 
 ## 🤖 AI & LLM Projects
