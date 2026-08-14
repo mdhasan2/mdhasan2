@@ -2,7 +2,7 @@
 
 Cloud Platform Security Engineer | AI Security Engineer | DevSecOps | Machine Learning | Explainable AI | Adversarial AI | Technical Program Manager
 
-📄 **[Curriculum Vitae (CV)](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)** | 💼 **[LinkedIn](https://www.linkedin.com/in/mjhasan1)** | 🛡️ **[GolKotha AI](https://github.com/mdhasan2/golkotha-ai)**
+📄 **[Resume]([https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link))** |📚 **[Full CV](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)** | 💼 **[LinkedIn](https://www.linkedin.com/in/mjhasan1)** | 🛡️ **[GolKotha AI](https://github.com/mdhasan2/golkotha-ai)**
 ---
 
 ## 👋 About Me
