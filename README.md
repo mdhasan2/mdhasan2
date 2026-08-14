@@ -57,7 +57,6 @@ Led defensive cyber and incident-response operations across distributed mission 
 ## 🛠️ Technical Stack
 
 **Cloud & Infrastructure**
-
 AWS • EC2 • EBS • S3 • IAM • Linux • Terraform • Ansible
 
 **Containers & Platforms**
