@@ -29,18 +29,23 @@ I hold an **active TS/SCI with CI Poly** and am approved for the **Hiring Our He
 ## 💼 Experience
 
 **Cloud Platform Security Engineer** | U.S. Army Cyber | 2024–Present
+
 Secure cloud-native platforms and distributed workloads using **AWS, Kubernetes, Docker, Terraform, Linux, Python, and GitLab CI/CD**.
 
 **Capability Development Team Lead** | U.S. Army Cyber | 2022–2024
+
 Led a **43-person technical team** delivering and sustaining software, hardware, and platform capabilities supporting cyber operations.
 
 **Cyber Course Manager & Instructor** | U.S. Army Cyber School | 2020–2022
+
 Modernized cyber training environments and curriculum for **120+ Cyber Operations Officers**, increasing course throughput by **40%**.
 
 **Cyber Organization Commander** | U.S. Army Cyber Protection Brigade | 2018–2020
+
 Led a **150-person cyber organization** comprising four Cyber Protection Teams supporting global defensive cyberspace operations.
 
 **Cyber Defense / Incident Response Manager** | U.S. Army Cyber Protection Brigade | 2015–2018
+
 Led defensive cyber and incident-response operations across distributed mission environments.
 
 ## 🔐 Security Expertise
