@@ -7,6 +7,28 @@ Cloud Platform Security Engineer | AI Security Engineer | DevSecOps | Machine Le
 
 ## 👋 About Me
 
+I design and secure cloud platforms that operate in high-assurance environments.
+
+With 19+ years of leadership and engineering experience in the U.S. Army, I specialize in Cloud Security, Platform Security, DevSecOps, Data Engineering, and Infrastructure as Code (IaC) across AWS, Azure, Kubernetes, Terraform, and Linux environments.
+
+My experience includes designing and securing cloud-native platforms, implementing Kubernetes Security controls, automating infrastructure deployments, building secure CI/CD pipelines, and developing scalable data platforms that support mission-critical operations.
+
+I focus on Security Automation, risk reduction, compliance, and operational resilience while enabling organizations to move faster and more securely.
+
+Throughout my career, I have led cross-functional teams and complex technical initiatives, combining deep technical expertise with Technical Leadership to deliver secure, scalable, and reliable solutions.
+
+Active TS/SCI with CI Poly. Approved for the Hiring Our Heroes Corporate Fellowship (Jan–Mar 2027) and actively seeking a host company in Cloud Security, Platform Security, DevSecOps, or Infrastructure/Technical Program Management, with full-time employment beginning April 2027.
+
+Published IEEE research on privacy-preserving vehicular communication systems, focusing on secure pseudonym schemes for Vehicle-to-Everything (V2X) environments.
+
+Currently building GolKotha AI, an AI Security Lab demonstrating Machine Learning, Explainable AI (SHAP), Adversarial Machine Learning, and Retrieval-Augmented Generation (RAG) for AI security research.
+
+Explore my work: 
+
+• Portfolio: https://www.cluebdi.com 
+
+• GitHub: https://github.com/mdhasan2
+
 ## 🏆 Highlights
 
 ## 💼 Experience
