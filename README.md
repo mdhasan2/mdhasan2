@@ -86,7 +86,23 @@ Built as a production-style Python application using Clean Architecture and SOLI
 
 `Python` • `XGBoost` • `SHAP` • `LangChain` • `ChromaDB` • `Streamlit` • `scikit-learn` • `Pandas` • `NumPy` • `Docker` • `Git`
 
-## 📜 Certifications
+## 📜 Certifications & Professional Development
+
+### Professional Certifications
+
+* **Certified Information Systems Security Professional (CISSP)** — (ISC)², ID #431428
+* **Project Management Professional (PMP)** — PMI
+* **AWS Certified Cloud Practitioner** — Amazon Web Services
+* **CompTIA Security+** — DoD 8570 compliant *(previously held)*
+* **CompTIA Network+** — DoD 8570 compliant *(previously held)*
+* **Cisco Certified Network Associate (CCNA)**
+
+### Professional Education
+
+* **Computer Networking** — University of Maryland University College (UMUC)
+* **Information Assurance** — CIO Institute, Carnegie Mellon University
+* **Strategy & Communication** — CIO Institute, Carnegie Mellon University
+
 
 ## 🎓 Education
 
