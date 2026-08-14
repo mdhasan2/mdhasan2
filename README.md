@@ -132,7 +132,7 @@ Built as a production-style Python application using Clean Architecture and SOLI
 * **AWS Certified Cloud Practitioner** — Amazon Web Services
 * **CompTIA Security+** — DoD 8570 compliant *(previously held)*
 * **CompTIA Network+** — DoD 8570 compliant *(previously held)*
-* **Cisco Certified Network Associate (CCNA)**
+* **Cisco Certified Network Associate (CCNA)** *(previously held)*
 
 ### Professional Education
 
