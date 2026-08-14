@@ -9,7 +9,7 @@ Cloud Platform Security Engineer | AI Security Engineer | DevSecOps | Machine Le
 
 I’m a **Cloud Platform & AI Security Engineer** with 19+ years of technical leadership and engineering experience, specializing in **Cloud Security, Platform Security, DevSecOps, AI Security, and Data Engineering**.
 
-My work spans **AWS, Azure, Kubernetes, Terraform, Linux, CI/CD security, Infrastructure as Code (IaC), Zero Trust, and security automation**, with a focus on building secure, scalable, and resilient platforms.
+My work spans **AWS, Azure, Kubernetes, Terraform, Linux, CI/CD security, Infrastructure as Code (IaC), and security automation**, with a focus on building secure, scalable, and resilient platforms.
 
 I’m currently developing **[GolKotha AI](https://github.com/mdhasan2/golkotha-ai)**, an AI Security Lab exploring **Explainable AI (SHAP), Adversarial Machine Learning, LLM security, and Retrieval-Augmented Generation (RAG)**. My research interests include **AI security, privacy-preserving AI, large-scale data systems, and AI-driven preventive healthcare**.
 
