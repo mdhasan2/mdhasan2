@@ -106,6 +106,30 @@ Built as a production-style Python application using Clean Architecture and SOLI
 
 ## 🎓 Education
 
+### Augusta University
+
+**Ph.D. Coursework — Computer & Cyber Sciences** | **GPA: 4.00**
+Completed **24 doctoral credit hours**, including **3+ dissertation research hours** (2021–2022).
+
+**Research Focus:** Data privacy and information sharing in large-scale distributed systems, with emphasis on big data analytics and **Vehicle-to-Everything (V2X)** communication in transportation and automotive ecosystems.
+
+### University of Illinois
+
+**M.S. — Computer Science, Data Science** | **GPA: 3.95**
+
+### Bangladesh University of Engineering and Technology (BUET)
+
+**B.S. — Computer Science and Engineering** | **GPA: 3.47**
+
+### Military & Technical Education
+
+* **Intermediate Level Education (ILE)** — Satellite Command and General Staff Officers' Course, Fort Gordon, 2021
+* **Cyber Operations Officer Course** — U.S. Army Cyber School, Fort Gordon, 2021
+* **Telecommunications Systems Engineer Course** — Cyber Leader College, 2016 | **GPA: 4.00**
+* **Certificate in Computer Networking** — University of Maryland University College (UMUC), 2016 | **GPA: 4.00**
+
+---
+
 ## 📚 Publications
 
 ### Securing Pseudonym Schemes for Vehicular Privacy
@@ -115,6 +139,29 @@ Built as a production-style Python application using Clean Architecture and SOLI
 Research on enhancing privacy-preserving pseudonym schemes for Vehicle-to-Everything (V2X) communication, addressing secure identity management and privacy protection in intelligent transportation systems.
 
 🔗 https://ieeexplore.ieee.org/abstract/document/10020907
+
+---
+
+## 🔬 Future Research Interests
+
+Building on prior research in **data privacy and large-scale data systems**, my future research will focus on applying **AI-driven analytics to preventive healthcare** using multimodal wearable and sensor data.
+
+* Artificial Intelligence and Machine Learning for preventive healthcare and early risk identification
+* Multimodal wearable health monitoring and longitudinal physiological data analysis
+* Context-aware, human-centered AI decision-support systems integrating wearable and immersive interfaces
+* Predictive modeling of health trajectories and longevity
+* Scalable data engineering architectures and pipelines for large-scale health data
+* Explainable and privacy-preserving AI for healthcare decision support
+
+---
+
+## 🧪 Methods & Technical Emphasis
+
+* Design and implementation of scalable **data ingestion and ETL/ELT pipelines** for multimodal health data
+* Distributed data processing, storage, and orchestration for longitudinal and real-time analytics
+* Data quality, validation, governance, and privacy-aware data management for health AI research
+
+---
 
 ## 🎯 Current Focus
 
