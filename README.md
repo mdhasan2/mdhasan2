@@ -7,27 +7,13 @@ Cloud Platform Security Engineer | AI Security Engineer | DevSecOps | Machine Le
 
 ## 👋 About Me
 
-I design and secure cloud platforms that operate in high-assurance environments.
+I’m a **Cloud Platform & AI Security Engineer** with 19+ years of technical leadership and engineering experience, specializing in **Cloud Security, Platform Security, DevSecOps, AI Security, and Data Engineering**.
 
-With 19+ years of leadership and engineering experience in the U.S. Army, I specialize in Cloud Security, Platform Security, DevSecOps, Data Engineering, and Infrastructure as Code (IaC) across AWS, Azure, Kubernetes, Terraform, and Linux environments.
+My work spans **AWS, Azure, Kubernetes, Terraform, Linux, CI/CD security, Infrastructure as Code (IaC), Zero Trust, and security automation**, with a focus on building secure, scalable, and resilient platforms.
 
-My experience includes designing and securing cloud-native platforms, implementing Kubernetes Security controls, automating infrastructure deployments, building secure CI/CD pipelines, and developing scalable data platforms that support mission-critical operations.
+I’m currently developing **[GolKotha AI](https://github.com/mdhasan2/golkotha-ai)**, an AI Security Lab exploring **Explainable AI (SHAP), Adversarial Machine Learning, LLM security, and Retrieval-Augmented Generation (RAG)**. My research interests include **AI security, privacy-preserving AI, large-scale data systems, and AI-driven preventive healthcare**.
 
-I focus on Security Automation, risk reduction, compliance, and operational resilience while enabling organizations to move faster and more securely.
-
-Throughout my career, I have led cross-functional teams and complex technical initiatives, combining deep technical expertise with Technical Leadership to deliver secure, scalable, and reliable solutions.
-
-Active TS/SCI with CI Poly. Approved for the Hiring Our Heroes Corporate Fellowship (Jan–Mar 2027) and actively seeking a host company in Cloud Security, Platform Security, DevSecOps, or Infrastructure/Technical Program Management, with full-time employment beginning April 2027.
-
-Published IEEE research on privacy-preserving vehicular communication systems, focusing on secure pseudonym schemes for Vehicle-to-Everything (V2X) environments.
-
-Currently building GolKotha AI, an AI Security Lab demonstrating Machine Learning, Explainable AI (SHAP), Adversarial Machine Learning, and Retrieval-Augmented Generation (RAG) for AI security research.
-
-Explore my work: 
-
-• Portfolio: https://www.cluebdi.com 
-
-• GitHub: https://github.com/mdhasan2
+I hold an **active TS/SCI with CI Poly** and am approved for the **Hiring Our Heroes Corporate Fellowship (Jan–Mar 2027)**. I’m pursuing opportunities in **Cloud/Platform Security, AI Security, DevSecOps, and Infrastructure/Technical Program Management**, with full-time availability beginning **April 2027**.
 
 ## 🏆 Highlights
 
