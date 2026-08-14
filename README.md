@@ -17,7 +17,31 @@ I hold an **active TS/SCI with CI Poly** and am approved for the **Hiring Our He
 
 ## 🏆 Highlights
 
+* 🔐 **19+ years** of engineering, cybersecurity, technical leadership, and military operations experience
+* ☁️ Cloud and platform engineering experience across **AWS, Kubernetes, Docker, Terraform, Linux, Python, and CI/CD**
+* 👥 Led technical and cyber organizations ranging from **12-person engineering teams to 150-person operational organizations**
+* 🛡️ Experience in **Cloud Security, DevSecOps, Incident Response, Zero Trust, IAM, and Defensive Cyber Operations**
+* 🤖 Building **GolKotha AI**, an AI Security Lab combining ML, XAI, adversarial AI, RAG, and LLM security
+* 📊 Improved cyber training throughput by **40%** while maintaining instructional quality
+* 🎓 **M.S. in Computer Science – Data Science** and doctoral coursework in **Computer & Cyber Sciences**
+* 🔑 Active **TS/SCI with Polygraph**
+
 ## 💼 Experience
+
+**Cloud Platform Security Engineer** | U.S. Army Cyber | 2024–Present
+Secure cloud-native platforms and distributed workloads using **AWS, Kubernetes, Docker, Terraform, Linux, Python, and GitLab CI/CD**.
+
+**Capability Development Team Lead** | U.S. Army Cyber | 2022–2024
+Led a **43-person technical team** delivering and sustaining software, hardware, and platform capabilities supporting cyber operations.
+
+**Cyber Course Manager & Instructor** | U.S. Army Cyber School | 2020–2022
+Modernized cyber training environments and curriculum for **120+ Cyber Operations Officers**, increasing course throughput by **40%**.
+
+**Cyber Organization Commander** | U.S. Army Cyber Protection Brigade | 2018–2020
+Led a **150-person cyber organization** comprising four Cyber Protection Teams supporting global defensive cyberspace operations.
+
+**Cyber Defense / Incident Response Manager** | U.S. Army Cyber Protection Brigade | 2015–2018
+Led defensive cyber and incident-response operations across distributed mission environments.
 
 ## 🔐 Security Expertise
 
@@ -31,7 +55,28 @@ I hold an **active TS/SCI with CI Poly** and am approved for the **Hiring Our He
 - Adversarial Machine Learning
 - LLM Security
 
-## ☁️ Cloud Technologies
+## 🛠️ Technical Stack
+
+**Cloud & Infrastructure**
+AWS • EC2 • EBS • S3 • IAM • Linux • Terraform • Ansible
+
+**Containers & Platforms**
+Kubernetes • Docker • Platform Engineering • Microservices
+
+**DevSecOps & Automation**
+GitLab CI/CD • Git • Python • Bash • Infrastructure as Code (IaC)
+
+**AI & Machine Learning**
+XGBoost • scikit-learn • SHAP • Pandas • NumPy • Streamlit
+
+**LLM & RAG**
+ChromaDB • Vector Embeddings • Retrieval-Augmented Generation (RAG)
+
+**Security**
+Cloud Security • IAM • Zero Trust • Threat Modeling • Security Hardening • AI Security • Adversarial ML • LLM Security
+
+**Data**
+SQL • Data Engineering • ETL/ELT • Distributed Systems • Data Governance
 
 ## 🤖 AI & LLM Projects
 
@@ -70,7 +115,7 @@ Built as a production-style Python application using Clean Architecture and SOLI
 
 #### Technologies
 
-`Python` • `XGBoost` • `SHAP` • `LangChain` • `ChromaDB` • `Streamlit` • `scikit-learn` • `Pandas` • `NumPy` • `Docker` • `Git`
+`Python` • `XGBoost` • `SHAP` • `ChromaDB` • `Streamlit` • `scikit-learn` • `Pandas` • `NumPy` • `Docker` • `Git`
 
 ## 📜 Certifications & Professional Development
 
@@ -148,14 +193,3 @@ Building on prior research in **data privacy and large-scale data systems**, my 
 * Data quality, validation, governance, and privacy-aware data management for health AI research
 
 ---
-
-## 🎯 Current Focus
-
-- AI Security Research
-- Secure LLM Systems
-- Cloud Platform Security
-- Adversarial Machine Learning
-- Explainable AI
-- RAG Engineering
-
-## 📫 Connect
