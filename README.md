@@ -99,30 +99,36 @@ SQL • Data Engineering • ETL/ELT • Distributed Systems • Data Governance
 
 ## 🚀 Featured Projects
 
-### 🛡️ GolKotha AI Security Lab
+### 🛡️ Prohori AI — Human-Governed Security Agents
 
-**Repository:** https://github.com/mdhasan2/golkotha-ai
+A human-governed, closed-loop AI security agent platform designed to investigate, validate, remediate, and verify security findings while keeping authorization and high-impact decisions under human control.
 
-An end-to-end AI Security Lab that demonstrates how adversarial machine learning can manipulate AI model predictions and how Explainable AI (XAI) and Retrieval-Augmented Generation (RAG) can be used to analyze, explain, and defend against those attacks.
+**Highlights**
+- 🤖 Multi-agent security workflows with LangGraph
+- 🔐 Default-deny policy and capability authorization
+- ✋ Human approval gates for sensitive actions
+- 🔌 MCP-based asset, security testing, and remediation tools
+- 🧾 Evidence provenance and auditable security actions
+- 🔄 Observe → Discover → Validate → Assess → Remediate → Verify
+- 🛡️ Bounded execution, retries, failure states, and workflow recovery
 
-Built as a production-style Python application using Clean Architecture and SOLID principles, the project combines machine learning, security engineering, and modern LLM workflows into a single platform.
+**Technologies:** `Python` · `FastAPI` · `LangGraph` · `MCP` · `OpenAI API` · `Pydantic` · `PostgreSQL` · `Docker` · `OpenTelemetry`
 
-#### Highlights
+---
 
-* 🤖 XGBoost machine learning model
-* 🔍 Explainable AI using SHAP
-* ⚔️ Adversarial Machine Learning (FGSM and attack simulations)
-* 📚 Retrieval-Augmented Generation (RAG) with ChromaDB
-* 🏛️ Knowledge base built from:
+### 🧠 Golkotha AI — AI Security & RAG Lab
 
-  * MITRE ATLAS
-  * NIST AI RMF
-  * OWASP Top 10 for LLM Applications
-  * IBM Adversarial Robustness Toolbox (ART)
-  * Microsoft AI Security guidance
-* 🧩 Modular Clean Architecture with dependency injection
-* 🌐 Interactive Streamlit dashboard
-* 📊 Attack reports with explainability and grounded security recommendations
+An end-to-end AI security lab demonstrating adversarial ML attacks and how explainability and Retrieval-Augmented Generation (RAG) can support analysis and grounded security recommendations.
+
+**Highlights**
+- 🤖 XGBoost machine learning
+- 🔎 Explainable AI with SHAP
+- ⚔️ Adversarial ML / FGSM testing
+- 📚 RAG with ChromaDB
+- 🏛️ MITRE ATLAS, NIST AI RMF, OWASP LLM Top 10, and IBM ART
+- 🌐 Interactive Streamlit security dashboard
+
+**Technologies:** `Python` · `XGBoost` · `SHAP` · `ChromaDB` · `Streamlit` · `scikit-learn` · `Docker`
 
 #### Technologies
 
