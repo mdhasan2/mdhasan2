@@ -4,10 +4,7 @@
 
 Building secure cloud platforms and human-governed AI security systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](https://www.linkedin.com/in/mjhasan1)
-[![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2)
-[Resume](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link)
-[📚 Full CV](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](https://www.linkedin.com/in/mjhasan1) [![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2) [📄 Resume](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link) · [📚 Full CV](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)
 
 ## 👤 Professional Summary
 
@@ -40,14 +37,14 @@ Cloud & AI security engineer focused on secure cloud platforms, Kubernetes, DevS
 
 ## 💼 Experience
 
-- **Cloud Platform Security Engineer - U.S. Army Cyber**
-  AWS · Kubernetes · Docker · Terraform · Linux · Python · GitLab CI/CD
+- **Cloud Platform Security Engineer — U.S. Army Cyber**  
+  `AWS` · `Kubernetes` · `Docker` · `Terraform` · `Linux` · `Python` · `GitLab CI/CD`
 
-- **Technical Engineering & Capability Development Lead**
+- **Technical Engineering & Capability Development Lead**  
   Led a **43-person technical engineering team** delivering cyber capabilities.
 
-- **Director, Cybersecurity Operations**
-  Led a **150+ person cyber organization** supporting 30+ defensive cyberspace missions.
+- **Director, Cybersecurity Operations**  
+  Led a **150+ person cyber organization** supporting **30+ defensive cyberspace missions**.
 
 
 ## 🎓 Credentials
