@@ -42,54 +42,9 @@ Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps,
 
 ---
 
-## 🔐 Security Expertise
+## 🧰 Technical Focus
 
-- Cloud Security (AWS)
-- Kubernetes Security
-- DevSecOps
-- Infrastructure as Code Security
-- Identity & Access Management
-- AI Security
-- Adversarial Machine Learning
-- LLM Security
-
-## 🛠️ Technical Stack
-
-**Cloud & Infrastructure**
-
-AWS • EC2 • EBS • S3 • IAM • Linux • Terraform • Ansible
-
-**Containers & Platforms**
-
-Kubernetes • Docker • Platform Engineering • Microservices
-
-**DevSecOps & Automation**
-
-GitLab CI/CD • Git • Python • Bash • Infrastructure as Code (IaC)
-
-**AI & Machine Learning**
-
-XGBoost • scikit-learn • SHAP • Pandas • NumPy • Streamlit
-
-**LLM & RAG**
-
-ChromaDB • Vector Embeddings • Retrieval-Augmented Generation (RAG)
-
-**Security**
-
-Cloud Security • IAM • Threat Modeling • Security Hardening • AI Security • Adversarial ML • LLM Security
-
-**Data**
-
-SQL • Data Engineering • ETL/ELT • Distributed Systems • Data Governance
-
-## 🤖 AI & LLM Projects
-
-- 🛡️ GolKotha AI Security Lab
-- Explainable AI using SHAP
-- Adversarial Machine Learning demonstrations
-- Retrieval-Augmented Generation (RAG)
-- Secure LLM Applications
+`AI Security` · `Cloud Security` · `Kubernetes` · `AWS` · `DevSecOps` · `Terraform` · `Python` · `RAG` · `LangGraph` · `MCP`
 
 ## 🚀 Featured Projects
 
