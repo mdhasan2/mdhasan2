@@ -109,47 +109,15 @@ AI security lab combining RAG, explainable ML, adversarial testing, security fra
 
 ---
 
-## 📜 Certifications & Professional Development
+## 🎓 Credentials
 
-### Professional Certifications
+**CISSP** · **PMP** · **AWS Certified**
 
-* **Certified Information Systems Security Professional (CISSP)** — (ISC)², ID #431428
-* **Project Management Professional (PMP)** — PMI
-* **AWS Certified Cloud Practitioner** — Amazon Web Services
-* **CompTIA Security+** — DoD 8570 compliant *(previously held)*
-* **CompTIA Network+** — DoD 8570 compliant *(previously held)*
-* **Cisco Certified Network Associate (CCNA)** *(previously held)*
+**Ph.D. Student — Computer & Cyber Sciences**  
+Augusta University · GPA 4.00
 
-### Professional Education
-
-* **Computer Networking** — University of Maryland University College (UMUC)
-* **Information Assurance** — CIO Institute, Carnegie Mellon University
-* **Strategy & Communication** — CIO Institute, Carnegie Mellon University
-
-
-## 🎓 Education
-
-### Augusta University
-
-**Ph.D. Coursework — Computer & Cyber Sciences** | **GPA: 4.00**
-Completed **24 doctoral credit hours**, including **3+ dissertation research hours** (2021–2022).
-
-**Research Focus:** Data privacy and information sharing in large-scale distributed systems, with emphasis on big data analytics and **Vehicle-to-Everything (V2X)** communication in transportation and automotive ecosystems.
-
-### University of Illinois
-
-**M.S. — Computer Science, Data Science** | **GPA: 3.95**
-
-### Bangladesh University of Engineering and Technology (BUET)
-
-**B.S. — Computer Science and Engineering** | **GPA: 3.47**
-
-### Military & Technical Education
-
-* **Intermediate Level Education (ILE)** — Satellite Command and General Staff Officers' Course, Fort Gordon, 2021
-* **Cyber Operations Officer Course** — U.S. Army Cyber School, Fort Gordon, 2021
-* **Telecommunications Systems Engineer Course** — Cyber Leader College, 2016 | **GPA: 4.00**
-* **Certificate in Computer Networking** — University of Maryland University College (UMUC), 2016 | **GPA: 4.00**
+**M.S. Computer Science — Data Science**  
+University of Illinois · GPA 3.95
 
 ---
 
