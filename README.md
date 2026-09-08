@@ -52,12 +52,12 @@ Cloud & AI security engineer focused on secure cloud platforms, Kubernetes, DevS
 
 ## 🎓 Credentials
 
-**CISSP** · **PMP** · **AWS Certified**
+- **CISSP** · **PMP** · **AWS Certified**
 
-**Ph.D. Student — Computer & Cyber Sciences**  
+- **Ph.D. Student — Computer & Cyber Sciences**  
 Augusta University · GPA 4.00
 
-**M.S. Computer Science — Data Science**  
+- **M.S. Computer Science — Data Science**  
 University of Illinois · GPA 3.95
 
 ## 📚 Publications
