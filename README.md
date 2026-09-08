@@ -10,7 +10,7 @@
 
 ## 👤 Professional Summary
 
-Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps, and distributed systems**, combined with leadership of technical organizations of up to **150 personnel**. CISSP, PMP, AWS certified, and active **TS/SCI with CI Polygraph**. :contentReference[oaicite:1]{index=1}
+Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps, and distributed systems**, combined with leadership of technical organizations of up to **150 personnel**. CISSP, PMP, AWS certified, and active **TS/SCI with CI Polygraph**.
 
 ## 🏆 Highlights
 
@@ -29,10 +29,10 @@ Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps,
   AWS · Kubernetes · Docker · Terraform · Linux · Python · GitLab CI/CD
 
 - **Technical Engineering & Capability Development Lead**
-  Led a **43-person technical engineering team** delivering cyber capabilities. :contentReference[oaicite:4]{index=4}
+  Led a **43-person technical engineering team** delivering cyber capabilities.
 
 - **Director, Cybersecurity Operations**
-  Led a **150+ person cyber organization** supporting 30+ defensive cyberspace missions. :contentReference[oaicite:5]{index=5}
+  Led a **150+ person cyber organization** supporting 30+ defensive cyberspace missions.
 
 ## 🧰 Technical Focus
 
@@ -45,14 +45,14 @@ Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps,
 
 `Python` · `FastAPI` · `LangGraph` · `MCP` · `OpenAI API` · `PostgreSQL` · `Docker`
 
-Human-governed security-agent platform with policy-based authorization, approval gates, auditable actions, bounded validation, remediation, and verification workflows. :contentReference[oaicite:2]{index=2}
+Human-governed security-agent platform with policy-based authorization, approval gates, auditable actions, bounded validation, remediation, and verification workflows.
 
 ### Golkotha AI
 **AI Security & RAG Lab**
 
 `Python` · `RAG` · `Chroma` · `XGBoost` · `SHAP` · `MITRE ATLAS` · `NIST AI RMF`
 
-AI security lab combining RAG, explainable ML, adversarial testing, security frameworks, and monitoring. :contentReference[oaicite:3]{index=3}
+AI security lab combining RAG, explainable ML, adversarial testing, security frameworks, and monitoring.
 
 ## 🎓 Credentials
 
@@ -90,5 +90,3 @@ Building on prior research in **data privacy and large-scale data systems**, my 
 * Design and implementation of scalable **data ingestion and ETL/ELT pipelines** for multimodal health data
 * Distributed data processing, storage, and orchestration for longitudinal and real-time analytics
 * Data quality, validation, governance, and privacy-aware data management for health AI research
-
----
