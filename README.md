@@ -93,40 +93,21 @@ SQL • Data Engineering • ETL/ELT • Distributed Systems • Data Governance
 
 ## 🚀 Featured Projects
 
-### 🛡️ Prohori AI — Human-Governed Security Agents
+### Prohori-AI
+**Human-Governed AI Security Agent Platform**
 
-A human-governed, closed-loop AI security agent platform designed to investigate, validate, remediate, and verify security findings while keeping authorization and high-impact decisions under human control.
+`Python` · `FastAPI` · `LangGraph` · `MCP` · `OpenAI API` · `PostgreSQL` · `Docker`
 
-**Highlights**
-- 🤖 Multi-agent security workflows with LangGraph
-- 🔐 Default-deny policy and capability authorization
-- ✋ Human approval gates for sensitive actions
-- 🔌 MCP-based asset, security testing, and remediation tools
-- 🧾 Evidence provenance and auditable security actions
-- 🔄 Observe → Discover → Validate → Assess → Remediate → Verify
-- 🛡️ Bounded execution, retries, failure states, and workflow recovery
+Human-governed security-agent platform with policy-based authorization, approval gates, auditable actions, bounded validation, remediation, and verification workflows. :contentReference[oaicite:2]{index=2}
 
-**Technologies:** `Python` · `FastAPI` · `LangGraph` · `MCP` · `OpenAI API` · `Pydantic` · `PostgreSQL` · `Docker` · `OpenTelemetry`
+### Golkotha AI
+**AI Security & RAG Lab**
+
+`Python` · `RAG` · `Chroma` · `XGBoost` · `SHAP` · `MITRE ATLAS` · `NIST AI RMF`
+
+AI security lab combining RAG, explainable ML, adversarial testing, security frameworks, and monitoring. :contentReference[oaicite:3]{index=3}
 
 ---
-
-### 🧠 Golkotha AI — AI Security & RAG Lab
-
-An end-to-end AI security lab demonstrating adversarial ML attacks and how explainability and Retrieval-Augmented Generation (RAG) can support analysis and grounded security recommendations.
-
-**Highlights**
-- 🤖 XGBoost machine learning
-- 🔎 Explainable AI with SHAP
-- ⚔️ Adversarial ML / FGSM testing
-- 📚 RAG with ChromaDB
-- 🏛️ MITRE ATLAS, NIST AI RMF, OWASP LLM Top 10, and IBM ART
-- 🌐 Interactive Streamlit security dashboard
-
-**Technologies:** `Python` · `XGBoost` · `SHAP` · `ChromaDB` · `Streamlit` · `scikit-learn` · `Docker`
-
-#### Technologies
-
-`Python` • `XGBoost` • `SHAP` • `ChromaDB` • `Streamlit` • `scikit-learn` • `Pandas` • `NumPy` • `Docker` • `Git`
 
 ## 📜 Certifications & Professional Development
 
