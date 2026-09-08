@@ -18,7 +18,7 @@ Cloud & AI security engineer focused on secure cloud platforms, Kubernetes, DevS
 - 🔐 **19+ years** across cybersecurity, engineering, and technical leadership
 - ☁️ Cloud & platform engineering across **AWS, Kubernetes, Docker, Terraform, Linux, Python & CI/CD**
 - 👥 Led technical organizations from **12-person engineering teams to 150+ personnel**
-- 🤖 Building **Prohori-AI** and **Golkotha AI** for human-governed AI security, RAG, XAI & adversarial AI
+- 🤖 Building Prohori-AI and Golkotha AI across agentic security, RAG, XAI & adversarial AI
 
 ## 🛠️ Skills
 
