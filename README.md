@@ -8,13 +8,9 @@
 
 📄 **[Resume](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link)** |📚 **[Full CV](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)** | 💼 **[LinkedIn](https://www.linkedin.com/in/mjhasan1)** | 🛡️ **[GolKotha AI](https://github.com/mdhasan2/golkotha-ai)**
 
----
-
 ## 👤 Professional Summary
 
 Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps, and distributed systems**, combined with leadership of technical organizations of up to **150 personnel**. CISSP, PMP, AWS certified, and active **TS/SCI with CI Polygraph**. :contentReference[oaicite:1]{index=1}
-
----
 
 ## 🏆 Highlights
 
@@ -27,8 +23,6 @@ Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps,
 * 🎓 **M.S. in Computer Science – Data Science** and doctoral coursework in **Computer & Cyber Sciences**
 * 🔑 Active **TS/SCI with Polygraph**
 
----
-
 ## 💼 Experience
 
 - **U.S. Army Cyber — Cloud Platform Security Engineer**
@@ -39,8 +33,6 @@ Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps,
 
 - **Director, Cybersecurity Operations**
   Led a **150+ person cyber organization** supporting 30+ defensive cyberspace missions. :contentReference[oaicite:5]{index=5}
-
----
 
 ## 🧰 Technical Focus
 
@@ -62,8 +54,6 @@ Human-governed security-agent platform with policy-based authorization, approval
 
 AI security lab combining RAG, explainable ML, adversarial testing, security frameworks, and monitoring. :contentReference[oaicite:3]{index=3}
 
----
-
 ## 🎓 Credentials
 
 **CISSP** · **PMP** · **AWS Certified**
@@ -73,8 +63,6 @@ Augusta University · GPA 4.00
 
 **M.S. Computer Science — Data Science**  
 University of Illinois · GPA 3.95
-
----
 
 ## 📚 Publications
 
@@ -86,8 +74,6 @@ Research on enhancing privacy-preserving pseudonym schemes for Vehicle-to-Everyt
 
 🔗 https://ieeexplore.ieee.org/abstract/document/10020907
 
----
-
 ## 🔬 Future Research Interests
 
 Building on prior research in **data privacy and large-scale data systems**, my future research will focus on applying **AI-driven analytics to preventive healthcare** using multimodal wearable and sensor data.
@@ -98,8 +84,6 @@ Building on prior research in **data privacy and large-scale data systems**, my 
 * Predictive modeling of health trajectories and longevity
 * Scalable data engineering architectures and pipelines for large-scale health data
 * Explainable and privacy-preserving AI for healthcare decision support
-
----
 
 ## 🧪 Methods & Technical Emphasis
 
