@@ -1,38 +1,25 @@
 # Md J. Hasan
 
-**Cloud & AI Security Leader | Platform Security | DevSecOps** 🚀
+**Cloud & AI Security | Platform Security | DevSecOps** 🚀
+
+Building secure cloud platforms and human-governed AI security systems.
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
 - [![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2)
 
 
-📄 **[Resume](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link)** |📚 **[Full CV](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)** | 💼 **[LinkedIn](https://www.linkedin.com/in/mjhasan1)** | 🛡️ **[GolKotha AI](https://github.com/mdhasan2/golkotha-ai)**
+📄 **[Resume](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link)** |📚 **[Full CV](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)** |
 
 ## 👤 Professional Summary
 
-Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps, and distributed systems**, combined with leadership of technical organizations of up to **150 personnel**. CISSP, PMP, AWS certified, and active **TS/SCI with CI Polygraph**.
+Cloud & AI security engineer focused on secure cloud platforms, Kubernetes, DevSecOps, and human-governed AI security systems. Hands-on with AWS, Terraform, Python, and distributed systems, with experience leading technical organizations of up to 150 personnel.
 
 ## 🏆 Highlights
 
-* 🔐 **19+ years** of engineering, cybersecurity, technical leadership, and military operations experience
-* ☁️ Cloud and platform engineering experience across **AWS, Kubernetes, Docker, Terraform, Linux, Python, and CI/CD**
-* 👥 Led technical and cyber organizations ranging from **12-person engineering teams to 150-person operational organizations**
-* 🛡️ Experience in **Cloud Security, DevSecOps, Incident Response, IAM, and Defensive Cyber Operations**
-* 🤖 Building **GolKotha AI**, an AI Security Lab combining ML, XAI, adversarial AI, RAG, and LLM security
-* 📊 Improved cyber training throughput by **40%** while maintaining instructional quality
-* 🎓 **M.S. in Computer Science – Data Science** and doctoral coursework in **Computer & Cyber Sciences**
-* 🔑 Active **TS/SCI with Polygraph**
-
-## 💼 Experience
-
-- **U.S. Army Cyber — Cloud Platform Security Engineer**
-  AWS · Kubernetes · Docker · Terraform · Linux · Python · GitLab CI/CD
-
-- **Technical Engineering & Capability Development Lead**
-  Led a **43-person technical engineering team** delivering cyber capabilities.
-
-- **Director, Cybersecurity Operations**
-  Led a **150+ person cyber organization** supporting 30+ defensive cyberspace missions.
+- 🔐 **19+ years** across cybersecurity, engineering, and technical leadership
+- ☁️ Cloud & platform engineering across **AWS, Kubernetes, Docker, Terraform, Linux, Python & CI/CD**
+- 👥 Led technical organizations from **12-person engineering teams to 150+ personnel**
+- 🤖 Building **Prohori-AI** and **Golkotha AI** for human-governed AI security, RAG, XAI & adversarial AI
 
 ## 🛠️ Skills
 
@@ -51,6 +38,18 @@ Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps,
 
 - 🤖 **[Golkotha AI](https://github.com/mdhasan2/golkotha-ai)** — AI security & RAG lab for adversarial testing, explainable ML, and AI security research.  
   `Python` `RAG` `Chroma` `XGBoost` `SHAP`
+
+## 💼 Experience
+
+- **U.S. Army Cyber — Cloud Platform Security Engineer**
+  AWS · Kubernetes · Docker · Terraform · Linux · Python · GitLab CI/CD
+
+- **Technical Engineering & Capability Development Lead**
+  Led a **43-person technical engineering team** delivering cyber capabilities.
+
+- **Director, Cybersecurity Operations**
+  Led a **150+ person cyber organization** supporting 30+ defensive cyberspace missions.
+
 
 ## 🎓 Credentials
 
