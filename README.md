@@ -38,21 +38,13 @@ Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps,
 
 `AI Security` · `Cloud Security` · `Kubernetes` · `AWS` · `DevSecOps` · `Terraform` · `Python` · `RAG` · `LangGraph` · `MCP`
 
-## 🚀 Featured Projects
+## 📁 Projects
 
-### Prohori-AI
-**Human-Governed AI Security Agent Platform**
+- 🔐 **[Prohori-AI](https://github.com/mdhasan2/prohori-ai)** — Human-governed AI security agents with policy enforcement, approval gates, remediation, and verification.  
+  `Python` `FastAPI` `LangGraph` `MCP` `Docker`
 
-`Python` · `FastAPI` · `LangGraph` · `MCP` · `OpenAI API` · `PostgreSQL` · `Docker`
-
-Human-governed security-agent platform with policy-based authorization, approval gates, auditable actions, bounded validation, remediation, and verification workflows.
-
-### Golkotha AI
-**AI Security & RAG Lab**
-
-`Python` · `RAG` · `Chroma` · `XGBoost` · `SHAP` · `MITRE ATLAS` · `NIST AI RMF`
-
-AI security lab combining RAG, explainable ML, adversarial testing, security frameworks, and monitoring.
+- 🤖 **[Golkotha AI](https://github.com/mdhasan2/golkotha-ai)** — AI security & RAG lab for adversarial testing, explainable ML, and AI security research.  
+  `Python` `RAG` `Chroma` `XGBoost` `SHAP`
 
 ## 🎓 Credentials
 
