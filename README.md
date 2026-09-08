@@ -29,27 +29,20 @@ Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps,
 * 🎓 **M.S. in Computer Science – Data Science** and doctoral coursework in **Computer & Cyber Sciences**
 * 🔑 Active **TS/SCI with Polygraph**
 
+---
+
 ## 💼 Experience
 
-**Cloud Platform Security Engineer** | U.S. Army Cyber | 2024–Present
+- **U.S. Army Cyber — Cloud Platform Security Engineer**
+  AWS · Kubernetes · Docker · Terraform · Linux · Python · GitLab CI/CD
 
-Secure cloud-native platforms and distributed workloads using **AWS, Kubernetes, Docker, Terraform, Linux, Python, and GitLab CI/CD**.
+- **Technical Engineering & Capability Development Lead**
+  Led a **43-person technical engineering team** delivering cyber capabilities. :contentReference[oaicite:4]{index=4}
 
-**Capability Development Team Lead** | U.S. Army Cyber | 2022–2024
+- **Director, Cybersecurity Operations**
+  Led a **150+ person cyber organization** supporting 30+ defensive cyberspace missions. :contentReference[oaicite:5]{index=5}
 
-Led a **43-person technical team** delivering and sustaining software, hardware, and platform capabilities supporting cyber operations.
-
-**Cyber Course Manager & Instructor** | U.S. Army Cyber School | 2020–2022
-
-Modernized cyber training environments and curriculum for **120+ Cyber Operations Officers**, increasing course throughput by **40%**.
-
-**Cyber Organization Commander** | U.S. Army Cyber Protection Brigade | 2018–2020
-
-Led a **150-person cyber organization** comprising four Cyber Protection Teams supporting global defensive cyberspace operations.
-
-**Cyber Defense / Incident Response Manager** | U.S. Army Cyber Protection Brigade | 2015–2018
-
-Led defensive cyber and incident-response operations across distributed mission environments.
+---
 
 ## 🔐 Security Expertise
 
