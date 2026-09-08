@@ -1,4 +1,4 @@
-# Md J. Hasan
+# Md Hasan
 
 **Cloud & AI Security | Platform Security | DevSecOps** 🚀
 
