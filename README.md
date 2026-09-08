@@ -40,7 +40,7 @@ Cloud & AI security engineer focused on secure cloud platforms, Kubernetes, DevS
 
 ## 💼 Experience
 
-- **U.S. Army Cyber — Cloud Platform Security Engineer**
+- **Cloud Platform Security Engineer - U.S. Army Cyber**
   AWS · Kubernetes · Docker · Terraform · Linux · Python · GitLab CI/CD
 
 - **Technical Engineering & Capability Development Lead**
@@ -52,37 +52,14 @@ Cloud & AI security engineer focused on secure cloud platforms, Kubernetes, DevS
 
 ## 🎓 Credentials
 
-- **CISSP** · **PMP** · **AWS Certified**
+**CISSP** · **PMP** · **AWS Certified**
 
-- **Ph.D. Student — Computer & Cyber Sciences**  
-Augusta University · GPA 4.00
+🎓 Ph.D. Student, Computer & Cyber Sciences — Augusta University  
+🎓 M.S. Computer Science (Data Science) — University of Illinois
 
-- **M.S. Computer Science — Data Science**  
-University of Illinois · GPA 3.95
+## 📚 Research & Publications
 
-## 📚 Publications
-
-### Securing Pseudonym Schemes for Vehicular Privacy
-**Md Hasan**, Gagan Agrawal, et al.  
-**IEEE Poster Paper**, 2023
-
-Research on enhancing privacy-preserving pseudonym schemes for Vehicle-to-Everything (V2X) communication, addressing secure identity management and privacy protection in intelligent transportation systems.
-
-🔗 https://ieeexplore.ieee.org/abstract/document/10020907
-
-## 🔬 Future Research Interests
-
-Building on prior research in **data privacy and large-scale data systems**, my future research will focus on applying **AI-driven analytics to preventive healthcare** using multimodal wearable and sensor data.
-
-* Artificial Intelligence and Machine Learning for preventive healthcare and early risk identification
-* Multimodal wearable health monitoring and longitudinal physiological data analysis
-* Context-aware, human-centered AI decision-support systems integrating wearable and immersive interfaces
-* Predictive modeling of health trajectories and longevity
-* Scalable data engineering architectures and pipelines for large-scale health data
-* Explainable and privacy-preserving AI for healthcare decision support
-
-## 🧪 Methods & Technical Emphasis
-
-* Design and implementation of scalable **data ingestion and ETL/ELT pipelines** for multimodal health data
-* Distributed data processing, storage, and orchestration for longitudinal and real-time analytics
-* Data quality, validation, governance, and privacy-aware data management for health AI research
+**Securing Pseudonym Schemes for Vehicular Privacy**  
+Md Hasan, Gagan Agrawal, et al. · IEEE, 2023  
+Research on privacy-preserving identity mechanisms for V2X systems.  
+[🔗 IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10020907)
