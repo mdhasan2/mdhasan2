@@ -1,7 +1,5 @@
 # Md J. Hasan
 
----
-
 **Cloud & AI Security Leader | Platform Security | DevSecOps** 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
