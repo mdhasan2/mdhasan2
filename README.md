@@ -1,23 +1,22 @@
-# Md Hasan
+# Md J. Hasan
 
-Cloud Platform Security Engineer | AI Security Engineer | DevSecOps | Machine Learning | Explainable AI | Adversarial AI | Technical Program Manager
+---
+
+**Cloud & AI Security Leader | Platform Security | DevSecOps** 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2)
 
 
 📄 **[Resume](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link)** |📚 **[Full CV](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)** | 💼 **[LinkedIn](https://www.linkedin.com/in/mjhasan1)** | 🛡️ **[GolKotha AI](https://github.com/mdhasan2/golkotha-ai)**
+
 ---
 
-## 👋 About Me
+## 👤 Professional Summary
 
-I’m a **Cloud Platform & AI Security Engineer** with 19+ years of technical leadership and engineering experience, specializing in **Cloud Security, Platform Security, DevSecOps, AI Security, and Data Engineering**.
+Hands-on experience with **AWS, Kubernetes, Terraform, Linux, Python, DevSecOps, and distributed systems**, combined with leadership of technical organizations of up to **150 personnel**. CISSP, PMP, AWS certified, and active **TS/SCI with CI Polygraph**. :contentReference[oaicite:1]{index=1}
 
-My work spans **AWS, Azure, Kubernetes, Terraform, Linux, CI/CD security, Infrastructure as Code (IaC), and security automation**, with a focus on building secure, scalable, and resilient platforms.
-
-I’m currently developing **[GolKotha AI](https://github.com/mdhasan2/golkotha-ai)**, an AI Security Lab exploring **Explainable AI (SHAP), Adversarial Machine Learning, LLM security, and Retrieval-Augmented Generation (RAG)**. My research interests include **AI security, privacy-preserving AI, large-scale data systems, and AI-driven preventive healthcare**.
-
-I hold an **active TS/SCI with CI Poly** and am approved for the **Hiring Our Heroes Corporate Fellowship (Jan–Mar 2027)**. I’m pursuing opportunities in **Cloud/Platform Security, AI Security, DevSecOps, and Infrastructure/Technical Program Management**, with full-time availability beginning **April 2027**.
+---
 
 ## 🏆 Highlights
 
