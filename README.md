@@ -4,7 +4,7 @@
 
 Building secure cloud platforms and human-governed AI security systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](https://www.linkedin.com/in/mjhasan1) [![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2) [![Resume](https://img.shields.io/badge/📄_Resume-View-2ea44f)](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link) [![Full CV](https://img.shields.io/badge/📚_Full_CV-View-6f42c1)](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true) [![5-Slide Intro](https://img.shields.io/badge/🎯_5--Slide_Intro-View-0078D4)](YOUR_5_SLIDE_DECK_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](https://www.linkedin.com/in/mjhasan1) [![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2) [![Resume](https://img.shields.io/badge/📄_Resume-View-2ea44f)](https://drive.google.com/file/d/1lGfA6EGX_SUj4-F2Lz6OHAfRMxPTb05g/view?usp=drive_link) [![Full CV](https://img.shields.io/badge/📚_Full_CV-View-6f42c1)](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true) [![I Love Me Deck](https://img.shields.io/badge/🎯_I-Love-Me-Deck)]([YOUR_5_SLIDE_DECK_URL](https://docs.google.com/presentation/d/1v5VAPW0jFw1xnL0VSLd7_fePlo7tCluR/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true))
 
 ## 👤 Professional Summary
 
