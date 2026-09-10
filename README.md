@@ -43,7 +43,7 @@ Cloud & AI security engineer focused on secure cloud platforms, Kubernetes, DevS
 - **Technical Engineering & Capability Development Lead**  
   Led a **43-person technical engineering team** delivering cyber capabilities.
 
-- **Director, Cybersecurity Operations**  
+- **Director, Cybersecurity Operations (Company Commander)**  
   Led a **150+ person cyber organization** supporting **30+ defensive cyberspace missions**.
 
 
