@@ -8,7 +8,7 @@ Building secure cloud platforms and human-governed AI security systems.
 [![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2)
 [![Resume](https://img.shields.io/badge/📄_Resume-View-2ea44f)](https://drive.google.com/file/d/1FxptKy3NRd-AwIHOIU4PxNqQGrtCQom9/view?usp=sharing)
 [![Full CV](https://img.shields.io/badge/📚_Full_CV-View-6f42c1)](https://docs.google.com/document/d/1YbBYqDQ9Mh9pD5YvjdogvwOLP762eADw/edit?usp=sharing&ouid=109670185267689011589&rtpof=true&sd=true)
-[![I Love Me Deck](https://img.shields.io/badge/🎖️_I_Love_Me_Deck-View-red)](https://docs.google.com/presentation/d/1w2ll6yMoNLTXGD28E5Fdo-Do3R1cugmt/edit?usp=drive_link&ouid=109670185267689011589&rtpof=true&sd=true)
+[![I Love Me Deck](https://img.shields.io/badge/🎖️_I_Love_Me_Deck-View-red)](https://cluebdi-my.sharepoint.com/:p:/p/md_j_hasan/IQD1t9Tfoic4R6KOmfJ95v-WAWUx1x1KFdaHRRz3Vb88zsU?e=FzGina)
 
 ## 👤 Professional Summary
 
