@@ -6,7 +6,7 @@ Integrating AWS data pipelines and developing AI security projects focused on RA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](https://www.linkedin.com/in/mjhasan1)
 [![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2)
-[![Resume](https://img.shields.io/badge/📄_Resume-View-2ea44f)](https://drive.google.com/file/d/14Qi4uAP86JzVKwwKbpwsQ573NdCJdWf1/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-View-2ea44f)](https://drive.google.com/file/d/1gaEAu8ZZ0Jj4079cT2Hy0Cl0SiRy4Irw/view?usp=sharing)
 [![I Love Me Deck](https://img.shields.io/badge/🎖️_I_Love_Me_Deck-View-red)](https://cluebdi-my.sharepoint.com/:p:/p/md_j_hasan/IQCUsTmW16OORoJ2Sq4S2e3yAWxsLza_mzgcGye2FrOP8hY?e=0CGzN7)
 
 ## 👤 Professional Summary
