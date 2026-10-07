@@ -1,8 +1,8 @@
 # Md Hasan
 
-**Cloud & AI Security | Platform Security | DevSecOps** 🚀
+**AI Security | Cloud & Kubernetes | DevSecOps | Building Human-Governed Agents | TS/SCI | CISSP • PMP** 🚀
 
-Building secure cloud platforms and human-governed AI security systems.
+Integrating AWS data pipelines and developing AI security projects focused on RAG and human-governed security-agent design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Hasan-blue?logo=linkedin)](https://www.linkedin.com/in/mjhasan1)
 [![GitHub](https://img.shields.io/github/followers/mdhasan2?label=Followers&style=social)](https://github.com/mdhasan2)
@@ -11,14 +11,14 @@ Building secure cloud platforms and human-governed AI security systems.
 
 ## 👤 Professional Summary
 
-Cloud & AI security engineer focused on secure cloud platforms, Kubernetes, DevSecOps, and human-governed AI security systems. Hands-on with AWS, Terraform, Python, and distributed systems, with experience leading technical organizations of up to 150 personnel.
+Army cyber officer and data engineer focused on AWS data pipelines, Kubernetes-based services, and AI security. Professional experience includes pipeline integration, CI/CD delivery workflows, troubleshooting, and technical leadership. Independent projects apply Python, FastAPI, Docker, and RAG while exploring human-governed security-agent design.
 
 ## 🏆 Highlights
 
-- 🔐 **19+ years** across cybersecurity, engineering, and technical leadership
-- ☁️ Cloud & platform engineering across **AWS, Kubernetes, Docker, Terraform, Linux, Python & CI/CD**
-- 👥 Led technical organizations from **12-person engineering teams to 150+ personnel**
-- 🤖 Building Prohori-AI and Golkotha AI across agentic security, RAG, XAI & adversarial AI
+- 🔐 **19+ years of U.S. Army service and leadership**, including cybersecurity operations and technical capability development
+- ☁️ Integrated data pipelines across **AWS, Amazon S3, Kubernetes-based services, and PostgreSQL-backed environments**, delivering configuration changes through merge requests and existing CI/CD workflows
+- 👥 Led a **43-person technical engineering team** and a **150+ person cyber organization**
+- 🤖 Developing **Prohori-AI** and **Golkotha AI**, with public work spanning containerized security labs, RAG, citation-grounded AI security recommendations, and monitoring
 
 ## 🛠️ Skills
 
