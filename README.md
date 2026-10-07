@@ -11,7 +11,7 @@ Integrating AWS data pipelines and developing AI security projects focused on RA
 
 ## 👤 Professional Summary
 
-Army cyber officer and data engineer focused on AWS data pipelines, Kubernetes-based services, and AI security. Professional experience includes pipeline integration, CI/CD delivery workflows, troubleshooting, and technical leadership. Independent projects apply Python, FastAPI, Docker, and RAG while exploring human-governed security-agent design.
+Army cyber officer and data engineer focused on AWS data pipelines, Kubernetes-based services, and AI security. Professional experience includes pipeline integration, CI/CD delivery workflows, troubleshooting, and technical leadership. Currently developing AI apps and agents on Azure through AI-103 training. Independent projects apply Python, FastAPI, Docker, and RAG while exploring human-governed security-agent design.
 
 ## 🏆 Highlights
 
@@ -22,6 +22,7 @@ Army cyber officer and data engineer focused on AWS data pipelines, Kubernetes-b
 
 ## 🛠️ Skills
 
+- ![Azure AI Development](https://img.shields.io/badge/Azure-AI_Development-0078D4) ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4) ![AI-103](https://img.shields.io/badge/AI--103-In_Progress-0078D4)
 - ![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-0078D4) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon-S3-569A31?logo=amazons3&logoColor=white)
 - ![Platform Integration](https://img.shields.io/badge/Platform-Integration-6A5ACD) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 - ![Container Security](https://img.shields.io/badge/Container-Security-0078D4) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
